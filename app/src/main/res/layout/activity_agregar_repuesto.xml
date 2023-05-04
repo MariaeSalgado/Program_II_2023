@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
+    android:background="#FFFFFF"
     tools:context=".AgregarProducto">
 
     <LinearLayout
@@ -36,10 +37,9 @@
                         android:id="@+id/imgFotoAmigo"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/white"
+                        android:background="@color/black"
                         android:rotation="-90"
-                        android:scaleType="centerCrop"
-                        />
+                        android:scaleType="centerCrop" />
 
 
                 </androidx.cardview.widget.CardView>
@@ -64,8 +64,10 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
+                android:background="#CCC8C8"
                 android:hint="Nombre"
                 android:textColor="#000000"
+                android:textColorHint="#000000"
                 android:textSize="16sp" />
 
             <EditText
@@ -78,8 +80,10 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
+                android:background="#B8B4B4"
                 android:hint="Presentacion"
                 android:textColor="#000000"
+                android:textColorHint="#000000"
                 android:textSize="16sp" />
 
             <EditText
@@ -92,8 +96,10 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
+                android:background="#B8B6B6"
                 android:hint="Precio"
                 android:textColor="#000000"
+                android:textColorHint="#000000"
                 android:textSize="16sp" />
 
             <EditText
@@ -106,8 +112,10 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
+                android:background="#ACAAAA"
                 android:hint="Marca"
                 android:textColor="#000000"
+                android:textColorHint="#000000"
                 android:textSize="16sp" />
 
         </LinearLayout>
