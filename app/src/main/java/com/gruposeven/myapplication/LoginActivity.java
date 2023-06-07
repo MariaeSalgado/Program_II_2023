@@ -94,6 +94,7 @@ public class LoginActivity extends AppCompatActivity {
             // Si el usuario ya ha iniciado sesión, redirigir a la siguiente actividad
             startActivity(new Intent(LoginActivity.this, HomeActivity.class));
             finish();
+
         }
 
         editTextEmail = findViewById(R.id.editTextEmail);
