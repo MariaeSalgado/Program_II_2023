@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
 
     android:background="@drawable/photo_1586809764311_090bc6068916"
-    tools:context=".SQLite.AgregarProducto">
+    tools:context=".SQL.AgregarProducto">
 
     <LinearLayout
         android:layout_width="match_parent"
