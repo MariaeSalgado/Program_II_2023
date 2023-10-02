@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "632397684380",
+    "firebase_url": "https://chatshop-814fe-default-rtdb.firebaseio.com",
+    "project_id": "chatshop-814fe",
+    "storage_bucket": "chatshop-814fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632397684380:android:2756efbda05e5eee149759",
+        "android_client_info": {
+          "package_name": "com.gruposeven.conversoresapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuutdB3X_2z3LRlSvjFL779kn8fF0fN94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632397684380:android:96e1a510b117e371149759",
+        "android_client_info": {
+          "package_name": "com.gruposeven.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuutdB3X_2z3LRlSvjFL779kn8fF0fN94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
